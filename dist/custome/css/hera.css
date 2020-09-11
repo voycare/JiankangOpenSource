@@ -1,0 +1,628 @@
+a {
+    color: #EB6271;
+}
+
+.btn-pink {
+    background-color: #EB6271;
+    color: #fff;
+}
+
+.btn-pink:hover {
+    background: #99202E !important;
+    border-color: #99202E !important;
+    color: #ffffff;
+}
+
+.form-control {
+    border-color: #CBCBCB;
+}
+
+.form-control::placeholder {
+    color: #979797;
+}
+
+.form-group > label {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.btn-savepassword {
+    width: 253px;
+    height: 40px;
+    background: #EB6271;
+    border-radius: 50px;
+    color: white !important;
+}
+
+.hera--trash {
+    min-width: 15px;
+    min-height: 20px;
+    background: url(/assets/img/hera-trash.png);
+    display: block;
+    background-size: contain;
+}
+
+.m-b-5 {
+    margin-bottom: 5px;
+}
+
+.btn-pink:disabled {
+    background-color: #434343;
+    color: #fff;
+    opacity: 1;
+}
+
+.btn-round {
+    border-radius: 100px;
+}
+
+a.pink {
+    color: #eb6271;
+}
+
+a.blue {
+    color: #4a90e2;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.nav-tabs.nav-tabs-bottom > li > a.active,
+.nav-tabs.nav-tabs-bottom > li > a.active:hover,
+.nav-tabs.nav-tabs-bottom > li > a.active:focus {
+    border-bottom-width: 2px;
+    border-color: transparent;
+    border-bottom: 3px solid #EB6271;
+    background-color: transparent;
+    transition: none 0s ease 0s;
+    -moz-transition: none 0s ease 0s;
+    -o-transition: none 0s ease 0s;
+    -ms-transition: none 0s ease 0s;
+    -webkit-transition: none 0s ease 0s;
+    font-weight: bold;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+.centerBtn {
+    margin: auto;
+    width: 30%;
+}
+
+.login-form {
+    width: 800px;
+    height: 480px;
+    border: 0.5px solid #9B9B9B;
+    border-radius: 10px;
+    padding-left: 265px;
+    padding-right: 265px;
+}
+
+body {
+    font-family: Poppins;
+    color: #434343;
+    background: #F5F8FA;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.logo {
+    position: absolute;
+    width: 213.57px;
+    height: 65px;
+    left: 71px;
+    top: 78px;
+}
+
+.form-material .form-control.fill ~ .float-label, .form-material .form-material .form-control.fill ~ .float-label {
+    top: -14px;
+    font-size: 11px;
+}
+
+.text-400 {
+    font-weight: 500;
+}
+
+.text-500 {
+    font-weight: 500;
+}
+
+.text-primary {
+    color: #EB6271 !important;
+}
+
+.text-pink {
+    color: #EB6271;
+}
+
+.text-blue {
+    color: #00A3FF !important;
+}
+
+.text-normal {
+    font-weight: 400 !important;
+}
+
+.title-color {
+    color: #020644;
+}
+
+.title-25 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 37px;
+    color: #434343;
+}
+
+.title-22 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.title-20 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #434343;
+}
+
+.title-15 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.title-18 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #020644;
+}
+
+.title-20 {
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.title-14 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    color: #434343;
+}
+
+.desc-11 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+.desc-12 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.desc-13 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19px;
+}
+
+.desc-14 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.desc-15 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.desc-16 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.desc-18 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.btn-small {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    padding: 3px 15px;
+}
+
+tr.text-bold td {
+    font-weight: 500;
+}
+
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+
+.pt-20 {
+    padding-top: 20px !important;
+}
+
+.pb-20 {
+    padding-bottom: 20px !important;
+}
+
+.valign-middle {
+    vertical-align: middle !important;
+}
+
+.border-top {
+    border-top: 1px solid #dee2e6;
+}
+
+.bt-0 {
+    border-top: 0px !important;;
+}
+
+.badge-primary {
+    background: #EB6271 !important;
+}
+
+.avatar-user {
+    background-color: #C4C4C4;
+}
+
+.card .card-header {
+    box-shadow: none;
+    border-bottom: 1px solid #F2F2F2;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.popover {
+    max-width: 600px;
+}
+
+#mobile_btn {
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 765px) {
+    #logoMain {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1366px) {
+    #logoMain {
+        margin-left: 50px !important;
+    }
+}
+
+.input-filter {
+    height: 19px;
+    background: #FFFFFF;
+    border: 1px solid #CBCBCB;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+input.hera-control {
+    width: 100%;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #CBCBCB;
+    box-sizing: border-box;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    padding-left: 15px;
+    color: #EB6271;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+select.hera-control {
+    width: 100%;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #CBCBCB;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: #EB6271;
+    margin-top: 10px;
+    padding-left: 15px;
+}
+
+.b-0 {
+    border: 0px !important;
+}
+
+.text-muted {
+    color: #9B9B9B !important;
+}
+
+.form-size--review {
+    height: 363px !important;
+    width: 731px !important;
+}
+
+.material-switch > label:before {
+    background-color: #FFAFAE;
+    box-shadow: none;
+}
+
+.review-margin {
+    margin-top: 47px;
+    margin-left: 49px;
+}
+
+#sidebar-menu {
+    margin-top: 10px;
+}
+
+
+/* Styling filter appointment box */
+.filter_appt {
+    border: 1px solid #CBCBCB;
+}
+
+.filter_appt::after, .filter_appt::before {
+    content: "";
+    border-style: solid;
+    height: 0;
+    width: 0;
+    display: block;
+    bottom: 100%;
+    position: absolute;
+}
+
+.filter_appt::before {
+    border-color: transparent transparent #CBCBCB transparent !important;
+    border-width: 11px !important;
+    left: 14px !important;
+    top: unset !important;
+}
+
+.filter_appt::after {
+    border-color: transparent transparent #fff transparent;
+    border-width: 10px !important;
+    left: 14.5px;
+}
+
+.btn-filter {
+    border-radius: 0;
+    width: 27px;
+    height: 27px;
+    position: relative;
+    border: 1px solid #CBCBCB;
+}
+
+.fa-filter:before {
+    content: "\f0b0";
+    position: absolute;
+    top: 6px;
+    left: 7px;
+}
+
+.select-nmb {
+    width: 46px !important;
+    height: 27px !important;
+    min-height: 27px !important;
+    border: 1px solid #CBCBCB !important;
+    border-radius: 0;
+    padding: 0px 0px 0px 6px;
+    font-size: 13px;
+}
+
+.country_select {
+    height: 19px !important;
+    min-height: 19px;
+    padding: 0px;
+    border: 1px solid #CBCBCB !important;
+    font-size: 12px;
+    border-radius: 0;
+    display: block;
+}
+
+.doctor--avatar-list {
+    border-radius: 100%;
+    background-color: #C4C4C4;
+    min-height: 125px;
+    min-width: 125px;
+    float: left;
+}
+
+.doctor--name {
+    margin-top: 35px;
+}
+
+.doctor--bio {
+    margin-top: 15px;
+}
+
+.list--actions li {
+    display: inline;
+    color: #EB6271;
+    margin-right: 40px;
+    line-height: 40px;
+}
+
+.list--actions li a {
+    color: #EB6271;
+}
+
+.list--actions img {
+    position: relative;
+    top: -2px;
+    margin-right: 10px;
+}
+
+.input-group,
+.form-group {
+    margin-bottom: 0;
+}
+
+.filter-name i {
+    position: absolute;
+    right: 0px;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    margin-right: 8px;
+    color: #434343;
+    z-index: 999;
+}
+
+.filter-name input {
+    padding-right: 25px;
+}
+
+.bottom-dash {
+    height: 0;
+    margin: 36px 0 36px;
+    border-top: 0.2px solid #CBCBCB;
+}
+
+.table--appt tr td {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.text-red {
+    color: #FF0000;
+}
+
+.no-border {
+    border: none !important;
+}
+
+/* Styling filter appointment box */
+
+.appt--detail td {
+    color: #434343;
+    border-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.appt--labels {
+    color: #020644 !important;
+}
+
+.appt--status {
+    margin: 0 auto;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 0px;
+    padding: 5px 12px;
+    max-width: 140px;
+}
+
+.appt--p {
+    color: #EB6271;
+}
+
+.app--div {
+    margin-left: 22px;
+    width: 238px;
+    height: 83px;
+    background: #020644;
+    border-radius: 5px;
+}
+
+.app--div {
+    margin-left: 22px;
+    width: 238px;
+    height: 83px;
+    background: #020644;
+    border-radius: 5px;
+}
+
+.table--appointment td {
+    border-bottom: 0.5px solid #dee2e6;
+}
+
+.table--appointment tr:last-child td {
+    border-bottom: 0px !important;
+}
+
+
+@media (max-width: 1199.98px) {
+    .logo {
+        left: 50%;
+        margin-left: -106px;
+    }
+}
+
+@media (min-width: 576px) {
+    .mt-sm-50 {
+        margin-top: 50px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1200px) {
+    .pl-lg-200 {
+        padding-left: 200px !important;
+    }
+
+    .pr-lg-200 {
+        padding-right: 200px !important;
+    }
+}
